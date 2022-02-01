@@ -52,9 +52,9 @@
 
 ---
 
-(https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
+![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanuwan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanuwan)
 
 [website]: https://lu.ma/shashika
 [twitter]: https://twitter.com/shashikanuwan99
