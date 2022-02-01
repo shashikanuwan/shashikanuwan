@@ -56,7 +56,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
+1. ❗️ Closed issue [#](https://github.com/shashikanuwan/laravel-socialite/issues) in [shashikanuwan/laravel-socialite](https://github.com/shashikanuwan/laravel-socialite)
 <!--END_SECTION:activity-->
 
 </details>
