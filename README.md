@@ -52,21 +52,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-   GitHub Stats
+  GitHub Stats
 
 ![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
-</details>
 
 [website]: https://lu.ma/shashika
 [twitter]: https://twitter.com/shashikanuwan99
