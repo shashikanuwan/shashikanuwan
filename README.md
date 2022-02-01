@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shashika" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" style="icon_color:#FFFF00" alt="shashika" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shashika | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="shashika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="shashika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -51,11 +51,11 @@
 
 ---
 
-[![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)]
+![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanuwan&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanuwan&langs_count=8)
 
 [website]: https://lu.ma/shashika
 [twitter]: https://twitter.com/shashikanuwan99
