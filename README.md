@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Shashika 
+### Hey there 👋, I'm Shashika 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shashika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshashikanuwan99&screen_name=shashikanuwan99)
 
-## I'm a Developer !!
+## I'm a Backend Developer !!
 
 - 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to collaborate with web developers
@@ -17,6 +17,7 @@
 [<img align="left" alt="shashika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shashika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -52,10 +53,9 @@
 
 ---
 
-  GitHub Stats
+## GitHub Stats
 
 ![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
-
 
 [website]: https://lu.ma/shashika
 [twitter]: https://twitter.com/shashikanuwan99
