@@ -44,8 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [First Post](https://dev.to/shashika/laravel-77e)
-
+- [Laravel](https://dev.to/shashika/laravel-77e)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/shashika)
