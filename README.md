@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Shashika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshashikanuwan99&screen_name=shashikanuwan99)
 
-## I'm a Backend Developer !!
+## I'm a Backend Developer 👨‍💻
 
 - 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to collaborate with web developers
@@ -38,7 +38,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-<br />
 
 ---
 
@@ -51,8 +50,6 @@
 ➡️ [more blog posts...](https://dev.to/shashika)
 
 ---
-
-## GitHub Stats
 
 ![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
