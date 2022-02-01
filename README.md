@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shashika 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/shashikanuwan99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshashikanuwan99&screen_name=shashikanuwan99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shashika?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshashikanuwan99&screen_name=shashikanuwan99)
 
 ## I'm a Developer !!
 
@@ -55,13 +55,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#](https://github.com/shashikanuwan/laravel-socialite/issues) in [shashikanuwan/laravel-socialite](https://github.com/shashikanuwan/laravel-socialite)
+
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+   GitHub Stats
 
 ![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
