@@ -15,7 +15,6 @@
 [<img align="left" alt="shashika | Email" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />](mailto:kumararanaweera1999@gmail.com)
 
 <br />
-<br />
 
 ### Languages and Tools:
 
