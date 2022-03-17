@@ -45,13 +45,13 @@
 
 ---
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Laravel](https://dev.to/shashika/laravel-77e)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/shashika)
+➡️ [more blog posts...](https://dev.to/shashika) -->
 
 ---
 
