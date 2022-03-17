@@ -45,16 +45,6 @@
 
 ---
 
-<!-- ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Laravel](https://dev.to/shashika/laravel-77e)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/shashika) -->
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikanuwan&langs_count=8&theme=dark&layout=compact&align=right&width=40%)
 
 ---
