@@ -12,7 +12,7 @@
 [<img align="left" alt="shashika | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]
 [<img align="left" alt="shashika | Twitter" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />][twitter]
 [<img align="left" alt="shashika | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]
-[<img align="left" alt="shashika | Email" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][email]
+[<img align="left" alt="shashika | Email" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />] (mailto:kumararanaweera1999@gmail.com)
 
 <br />
 <br />
@@ -64,6 +64,5 @@
 
 [website]: https://lu.ma/shashika
 [twitter]: https://twitter.com/shashikanuwan99
-[email]: (mailto:kumararanaweera1999@gmail.com)
 [instagram]: https://www.instagram.com/shashikanuwan99/
 [linkedin]: https://linkedin.com/in/shashikanuwan
