@@ -60,7 +60,7 @@
 
 ![Shashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikanuwan&show_icons=true&theme=radical)
 
-[website]: https://lu.ma/shashika
+[website]: https://www.shashikanuwan.me/
 [twitter]: https://twitter.com/shashikanuwan99
 [instagram]: https://www.instagram.com/shashikanuwan99/
-[linkedin]: https://linkedin.com/in/shashikanuwan
+[linkedin]: https://linkedin.com/in/shashikanuwan99
