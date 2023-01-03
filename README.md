@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning everything 😉
 - 👯 I’m looking to collaborate with web developers
 - 🤔 I keep up to date with the latest technology
-- 🥅 2022 Goals: Contribute more to open source projects and work as a backend developer in a software company
 - ⚡ I feel: The happy developer writes the correct code
 
 ### Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
