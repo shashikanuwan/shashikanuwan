@@ -62,4 +62,4 @@
 [website]: https://www.shashikanuwan.me/
 [twitter]: https://twitter.com/shashikanuwan99
 [instagram]: https://www.instagram.com/shashikanuwan99/
-[linkedin]: https://linkedin.com/in/shashikanuwan99
+[linkedin]: https://linkedin.com/in/shashikanuwan
