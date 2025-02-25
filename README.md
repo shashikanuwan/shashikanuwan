@@ -2,7 +2,7 @@
 
 - 👨‍💻 Backend Developer 
 - 🌱 I’m currently learning everything 😉
-- 👯 I’m looking to collaborate with web developers
+- 👯 I’m looking to collaborate with developers
 - 🤔 I keep up to date with the latest technology
 - ⚡ I feel: The happy developer writes the correct code
 
